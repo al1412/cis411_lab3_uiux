@@ -61,7 +61,7 @@ Insert Recorded Screenshots with captions and steps.
 | Preconditions | |
 | Postconditions | |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a competitive product
 
 List of Competitors
 1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
